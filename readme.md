@@ -15,4 +15,7 @@
 * Luis
 * Estaban
 * Julian
+* Jarol
+* Jose
+* Milvia
 ![Alt Text](https://elgaragehub.com/blog/content/images/2018/04/hello-world-2.png)  
